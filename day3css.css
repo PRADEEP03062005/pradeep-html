@@ -1,0 +1,22 @@
+  *{
+    padding: 0;
+    margin: 0;
+  }
+  .titlebar{
+    font-family: "Poppins", sans-serif;
+    color: yellow;
+    background-color:red;
+    text-align: center;
+  }
+  .container{
+    color:blue;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  
+
+  
